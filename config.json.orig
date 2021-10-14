@@ -1,0 +1,9 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "channels": [
+        {
+            "voice": "8965826579XXXXXXXX",
+            "text": "8965837580XXXXXXXX"
+        }
+    ]
+}
